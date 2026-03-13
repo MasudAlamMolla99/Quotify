@@ -3,8 +3,7 @@
 **Quotify** is a simple and elegant web application that displays inspirational quotes to motivate and inspire users. Users can generate random quotes and enjoy a clean and responsive interface.
 
 ## 🌐 Live Demo
-Try the application here:  
-👉 https://masudalammolla99.github.io/Quotify/
+👉 [Live Demo](https://masudalammolla99.github.io/Quotify/)
 
 ---
 
